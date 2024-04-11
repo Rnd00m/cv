@@ -1,9 +1,16 @@
 [
   {
-    "title": "Techlead Backend",
+    "title": "Backend Engineer",
     "company": "lePERMISLIBRE",
     "company_doing": "Online drivingschool",
-    "description": "In an online driving school, I am responsible of concieving and developing APIs. I also do code reviews and help the team to improve their skills. I'm also a support of the data team.",
+    "descriptions": [
+      "Functional and technical conception",
+      "Development of new functionalities for B2C and B2B applications and internal tools",
+      "API development",
+      "Testing (unit, functional, integration)",
+      "Application maintenance and code refactoring",
+      "Continuous delivery development (99.99% availability)"
+    ],
     "from": "2021-12-01",
     "to": null,
     "displayInResume": true,
@@ -12,106 +19,74 @@
       "PHP",
       "Symfony",
       "MySQL",
-      "AWS",
-      "DBT",
-      "Tableau",
-      "BigQuery"
-    ]
-  },
-  {
-    "title": "CTO",
-    "company": "Aboutgoods Company",
-    "company_doing": "Data analysis",
-    "description": "A start up specialized in extracting data from receipts. I was in charge of imagining, conceiving and developing the different microservices. I was also in charge of the infrastructure and the deployment of the different services.",
-    "from": "2015-09-28",
-    "to": "2021-11-25",
-    "displayInResume": true,
-    "icon": "receipt_long",
-    "keywords": [
-      "Symfony",
-      "Golang",
-      "DevOps",
-      "Python",
-      "PHP",
-      "PostgreSQL",
-      "Elasticsearch",
-      "RabbitMQ",
-      "Neo4j",
-      "Docker Swarm",
-      "Kotlin"
-    ]
-  },
-  {
-    "title": "Teacher",
-    "company": "MyDigitalSchool",
-    "company_doing": "School",
-    "description": "Docker and Advanced Linux for Master's degree students.",
-    "from": "2022-01-01",
-    "to": null,
-    "displayInResume": true,
-    "icon": "school",
-    "keywords": [
+      "React",
+      "TypeScript",
       "Docker",
-      "Linux",
-      "Monitoring"
-    ]
-  },
-  {
-    "title": "Teacher",
-    "company": "CCI Haute-Savoie",
-    "company_doing": "School",
-    "description": "Symfony, Database structures and Git for Bachelor's degree students.",
-    "from": "2020-12-01",
-    "to": null,
-    "displayInResume": true,
-    "icon": "school",
-    "keywords": [
-      "PHP",
-      "Symfony",
-      "PostgreSQL",
-      "MongoDB",
-      "Elasticsearch",
-      "Neo4J",
-      "Redis",
-      "Git"
-    ]
-  },
-  {
-    "title": "Teacher",
-    "company": "Le Campus Numérique in the Alps",
-    "company_doing": "School",
-    "description": "PHP, Laravel and Symfony for adults in reconversion.",
-    "from": "2018-02-01",
-    "to": null,
-    "displayInResume": true,
-    "icon": "school",
-    "keywords": [
-      "PHP",
-      "Symfony",
-      "MySQL",
-      "AWS",
-      "DBT",
-      "Tableau",
-      "BigQuery"
+      "Gitlab"
     ]
   },
   {
     "title": "Techlead",
-    "company": "Discoo.fr",
-    "company_doing": "Reseller of goods",
-    "description": "A solution of estimating, buying and selling second-hand goods on marketplaces.",
-    "from": "2014-09-01",
-    "to": "2015-08-01",
+    "company": "Nixie.fr",
+    "company_doing": "Communication and development agency",
+    "descriptions": [
+      "Conception, planning and development for the reengineering of an ERP focused on industrial production ",
+      "Project management in Agile mode",
+      "Communication and customer relations",
+      "Data migration",
+      "Setting up servers and CI/CD system on GitLab"
+    ],
+    "from": "2020-09-01",
+    "to": "2021-11-25",
     "displayInResume": true,
-    "icon": "album",
+    "icon": "flowsheet",
     "keywords": [
       "PHP",
-      "Symfony",
+      "Laravel",
       "MySQL",
-      "AWS",
-      "DBT",
-      "Tableau",
-      "BigQuery"
+      "JavaScript",
+      "Vue.js"
+    ]
+  },
+  {
+    "title": "Fullstack Developer",
+    "company": "Nixie.fr",
+    "company_doing": "Communication and development agency",
+    "descriptions": [
+      "Application maintenance and development of new functionalities for industrial production ERP and CRM systems",
+      "Development of an online health survey with statistics and reporting systems linked to an external API",
+      "Development of an industrial supervision module linked to an external API"
+    ],
+    "from": "2017-06-01",
+    "to": "2020-08-31",
+    "displayInResume": true,
+    "icon": "stacks",
+    "keywords": [
+      "PHP",
+      "Laravel",
+      "MySQL",
+      "SQL Server",
+      "JavaScript",
+      "Vue.js"
+    ]
+  },
+  {
+    "title": "Fullstack Developer",
+    "company": "Nixie.fr",
+    "company_doing": "Communication and development agency",
+    "descriptions": [
+      "Application maintenance and development of new functionalities for industrial production ERPs",
+      "Development of a purchasing platform with customer and administrator interface"
+    ],
+    "from": "2016-04-01",
+    "to": "2016-06-30",
+    "displayInResume": true,
+    "icon": "school",
+    "keywords": [
+      "PHP",
+      "Laravel",
+      "JavaScript",
+      "Vue.js"
     ]
   }
 ]

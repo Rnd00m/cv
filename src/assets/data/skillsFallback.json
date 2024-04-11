@@ -3,43 +3,35 @@
     "name": "Programming",
     "icon": "code",
     "keywords": [
+      "HTML",
+      "CSS",
       "PHP",
-      "Symfony",
-      "Golang",
-      "Kotlin",
-      "Javascript",
-      "Python",
-      "Java"
-    ]
-  },
-  {
-    "name": "Data",
-    "icon": "database",
-    "keywords": [
-      "Elasticsearch",
+      "JavaScript",
+      "TypeScript",
       "SQL",
-      "MongoDB",
-      "Redis",
-      "Neo4j",
-      "DBT",
-      "Fivetran",
-      "Hightouch",
-      "BigQuery",
-      "tableau"
+      "Redis"
     ]
   },
   {
-    "name": "Devops",
-    "icon": "settings",
+    "name": "Frameworks",
+    "icon": "construction",
     "keywords": [
-      "Linux/Unix",
+      "Symfony",
+      "Laravel",
+      "Vue.js",
+      "React",
+      "TailwindCSS"
+    ]
+  },
+  {
+    "name": "Tools",
+    "icon": "service_toolbox",
+    "keywords": [
       "Docker",
-      "Traefik",
-      "Docker Swarm",
-      "Prometheus",
-      "Grafana",
-      "Graylog",
-      "Gitlab CI"
+      "Linux/Unix",
+      "Git",
+      "Notion",
+      "GSuite"
     ]
   },
   {
@@ -48,8 +40,7 @@
     "keywords": [
       "French",
       "English",
-      "Spanish",
-      "Bulgarian"
+      "Italian"
     ]
   }
 ]
